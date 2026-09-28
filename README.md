@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdulualy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abduluali
 =================================================================================================================================
 
 I'm a beginner web developer. My journey began at the College of Astana IT University, and until this day I have been studying them. In college, I tried myself in many directions, tried to study Python, SQL, even participated in a startup project, but most of all I was interested in web development! In the future I'm going to be a full-timer, and that's why I'm currently learning backend. Currently, my college education continues and I want to find my first job!
